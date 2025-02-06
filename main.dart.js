@@ -39620,7 +39620,7 @@ n.cx=1-p/(n.y*60)
 q=n.x||q
 r=Math.abs(r%60)
 n.ch=q?B.h.k(B.h.cb(s,o))+":"+B.d.fq(B.h.k(r),2,"0")+":"+B.d.fq(B.h.k(Math.abs(p%60)),2,"0"):B.h.k(B.h.cb(s,o))+":"+B.d.fq(B.h.k(r),2,"0")}else{n.cx=1
-n.ch="The exam has ended!"}}},
+n.ch="The exam is over!"}}},
 $S:0}
 A.a6W.prototype={
 $1(a){this.a.Qb()},
